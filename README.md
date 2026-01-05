@@ -34,3 +34,9 @@ The project uses a structured dataset related to **hospital emergency room recor
 ## Author
 **Anushka Kamble**  
 Aspiring Data Analyst
+
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.jpg)
+
